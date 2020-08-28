@@ -60,7 +60,7 @@ public class Main{
 			System.exit(0);
 		} */
 		
-		s = "a=(a+b)*(c^d)";
+		s = "a=(a+b)**(c^d)";
 		if (asgn() && i == s.length()) {
 			System.out.println("The string \"" + s + "\" is in the language.");
 		}
