@@ -68,7 +68,8 @@ public class Main{
 			System.out.println("The string \"" + s + "\" is NOT in the language.");
 		}
 		
-	}		
+	}	
+	
 	// COMPLETE
 	private static boolean asgn() {
 		if (ident()) {
