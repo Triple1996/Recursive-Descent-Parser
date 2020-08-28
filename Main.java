@@ -16,7 +16,7 @@
  * <PROD> -> <IDENT> | <LITERAL> | <UNARY> <IDENT> | <UNARY> <LITERAL> | ( <EXPR> )
  * <UNARY> -> + | - | !
  * <IDENT> -> <CHAR> | <CHAR> <IDENT>
- * <LETTER> -> a | b | ... | y | z
+ * <CHAR> -> a | b | ... | y | z
  * <LITERAL> -> <DIGIT> | <DIGIT> <LITERAL>
  * <DIGIT> -> 0 | 1 | ... | 8 | 9
  * */
